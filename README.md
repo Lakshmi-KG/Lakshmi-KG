@@ -1,4 +1,4 @@
-#  Hi, I'm Lakshmi Kuramgalla 👋
+#  Hi, I'm Lakshmi Kuram Galla 👋
 **Python Full-Stack Developer** — FastAPI/Django • React • SQL • REST APIs • Docker • CI/CD
 
 - 🔭 Current project: ToDO APP (Auth + Django + MySQL)
