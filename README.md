@@ -3,7 +3,7 @@
 
 - 🔭 Current project: ToDO APP (Auth + Django + MySQL)
 - ✅ I write tests with pytest and use GitHub Actions (CI)
-- 🌱 Learning: caching, async   , system design basics
+- 🌱 Learning: caching, async, system design basics
 - 🌐 Portfolio/LinkedIn: www.linkedin.com/in/lakshmikuramgalla • 📫 lakshmikuramgalla@gmail.com
 
 ## Tech
